@@ -2,4 +2,9 @@ Apple
 
 Bananas
 
-Strawberries
+<<<<<<< HEAD
+Kiwi
+
+=======
+Watermelons
+>>>>>>> parent of 5e93f97... I want strawberries intead
